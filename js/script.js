@@ -1,12 +1,4 @@
-// SOLUSI UNTUK MENAMPILKAN MODAL NAMA HANYA SEKALI
 
-// 1. Hapus atau comment bagian ini dari kode contact:
-/*
-// Show contact welcome modal on page load
-window.addEventListener('load', function() {
-    document.getElementById('contactWelcomeModal').style.display = 'flex';
-});
-*/
 
 // 2. Gunakan hanya satu modal untuk nama pengguna
 function myFunction() {
