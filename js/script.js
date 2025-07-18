@@ -15,10 +15,10 @@ function myFunction() {
 }
 
 // MODAL NAMA UTAMA - HANYA INI YANG DIJALANKAN
-document.addEventListener("DOMContentLoaded", function () {
-    // Tampilkan modal saat halaman dibuka
-    document.getElementById("nameModal").style.display = "flex";
-});
+// document.addEventListener("DOMContentLoaded", function () {
+//     // Tampilkan modal saat halaman dibuka
+//     document.getElementById("nameModal").style.display = "flex";
+// });
 
 function submitName() {
     const name = document.getElementById("nameInput").value.trim();
