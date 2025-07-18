@@ -66,7 +66,7 @@ Website portfolio ini menyajikan informasi tentang **Sulastian Setiadi**, termas
 
 - [x] Responsive design
 - [x] Interactive navigation
-- [x] Welcome modal pop-up
+- [x] Welcome modal pop-up (gagal enggak tau kenapa pas di hosting di github gak ilang otomatis modal pop up nya)
 - [x] Project showcase slider
 - [x] Validated contact form
 - [x] Auto age calculator
