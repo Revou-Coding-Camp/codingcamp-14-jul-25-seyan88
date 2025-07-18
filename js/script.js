@@ -15,7 +15,7 @@ function myFunction() {
 }
 
 // MODAL NAMA UTAMA - HANYA INI YANG DIJALANKAN
-// document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
 //     // Tampilkan modal saat halaman dibuka
 //     document.getElementById("nameModal").style.display = "flex";
 // });
